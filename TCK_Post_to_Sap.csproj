@@ -104,6 +104,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Barcode.edmx</DependentUpon>
     </Compile>
+    <Compile Include="Class\Blukcppy.cs" />
     <Compile Include="Class\Validate_GRTR.cs" />
     <Compile Include="Class\Condb.cs" />
     <Compile Include="Class\ServicePostSapGI.cs" />
